@@ -1,3 +1,0 @@
-# SWS
-
-survive with shree
