@@ -1,4 +1,4 @@
-baseURL = "https://survive-with-shree.github.io/SWS/"
+baseURL = "https://survive-with-shree.github.io/SWS/quickstart/"
 languageCode = "en-us"
 title = "Survive with Shree"
 theme = "liva"
